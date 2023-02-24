@@ -1,9 +1,10 @@
-#https://forkify2023.netlify.app
+# https://forkify2023.netlify.app
 
-#FORKIFY
+# FORKIFY
+
 A restaurant webapp where you can search for recipes or food ingredients and receive a list of different food it is used in, including directions to prepare, ingredients, expected cooking time and quantity for varieties of servings.
 
-##FEATURING
+## FEATURING
 
 > Asynchronous JavaScript
 
@@ -39,7 +40,7 @@ A restaurant webapp where you can search for recipes or food ingredients and rec
 
 > Responsive WebApp
 
-##CHARACTERISTICS
+## CHARACTERISTICS
 
 - Search for random ingredient
 - Colorful recipes
